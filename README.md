@@ -1,4 +1,4 @@
-Copyright 2017 "jascha" on the empyrion forums (http://empyriononline.com/members/jascha.8396/)
+Copyright 2017 joemorin73 from the empyrion forum http://empyriononline.com/members/joemorin73.14511/
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
